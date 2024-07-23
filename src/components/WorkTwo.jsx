@@ -57,7 +57,7 @@ const WorkTwo = () => {
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href="https://collinserim21165.github.io/Developer_Portfolio_Starter_Files/">Demo</a></button>
                         </a>
                         <a href="/">
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href="https://github.com/collinsErim21165/Developer_Portfolio_Starter_Files"></a></button>
+                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href="https://github.com/collinsErim21165/Developer_Portfolio_Starter_Files">Code</a></button>
                         </a>
                     </div>
                 </div>

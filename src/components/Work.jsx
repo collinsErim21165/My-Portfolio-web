@@ -62,7 +62,7 @@ const Work = () => {
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href='https://multi-step-form-for-developers.vercel.app'>Demo</a></button>
                         </a>
                         <a href="/">
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href="https://github.com/collinsErim21165/Multi-step-form"></a></button>
+                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href="https://github.com/collinsErim21165/Multi-step-form">Code</a></button>
                         </a>
                     </div>
                 </div>
