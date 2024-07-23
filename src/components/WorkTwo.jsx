@@ -25,7 +25,7 @@ const WorkTwo = () => {
                           <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href='https://collinserim21165.github.io/loops-studio-landing-page/'>Demo</a></button>
                       </a>
                       <a href="/">
-                          <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href="https://github.com/collinsErim21165/loops-studio-landing-page"></a></button>
+                          <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href="https://github.com/collinsErim21165/loops-studio-landing-page"></a>Code</button>
                       </a>
                   </div>
               </div>
@@ -50,7 +50,7 @@ const WorkTwo = () => {
                 {/* Hover effect */}
                 <div className='opacity-0 group-hover:opacity-100 '>
                     <span className='text-2xl font-bold text-white tracking-wider'>
-                       React JS Application
+                       Html/css Application
                     </span>
                     <div className='pt-8 text-center'>
                         <a href="/">
