@@ -1,7 +1,7 @@
 import React from 'react';
 import '../index.css'
 import backGroungImg from '../assets/Screenshot.png';
-import backGroungImg2 from '../assets/active-states.jpg';
+import backGroungImg2 from '../assets/AvantCare.png';
 import backGroungImg3 from '../assets/multi-step-form.jpg';
 
 const Work = () => {
@@ -43,10 +43,10 @@ const Work = () => {
                     </span>
                     <div className='pt-8 text-center'>
                         <a href="/">
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'> <a href='https://fylo-dark-theme-page-tau.vercel.app/'>Demo</a></button>
+                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'> <a href='https://avant-care-center.vercel.app/'>Demo</a></button>
                         </a>
                         <a href="/">
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href='https://github.com/collinsErim21165/fylo-dark-theme-page'>Code</a></button>
+                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'><a href='https://github.com/collinsErim21165/Avant-Care'>Code</a></button>
                         </a>
                     </div>
                 </div>
